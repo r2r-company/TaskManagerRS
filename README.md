@@ -32,7 +32,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 ### 3. Встановлення залежностей
-📦 Встановіть усі залежності, зазначені у файлі requirements.txt:
+📦 Встановіть усі залежності, зазначені у файлі requirements.txt: [requirements.txt](requirements.txt)
 
 ```bash
 pip install -r requirements.txt
