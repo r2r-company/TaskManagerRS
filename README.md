@@ -66,10 +66,14 @@ python manage.py runserver
 
 # Встановлення та запуск через Docker:
 
-📦 Встановіть усі залежності, зазначені у файлі [Dockerfile](Dockerfile)
+## Побудуйте образ Docker: [Dockerfile](Dockerfile)
+
 ```bash
 docker build -t django-app .
 ```
+## Запустіть контейнер:
+
+bash
 ```bash
 docker run -p 8000:8000 django-app
 ```
