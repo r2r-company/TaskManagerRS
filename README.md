@@ -62,5 +62,6 @@ python manage.py runserver
 
 ### 📂 Структура проекту
 
-![image](https://github.com/user-attachments/assets/2a017115-58c0-4547-bcb2-6f6e61519251)
+![image](https://github.com/user-attachments/assets/90bf3dd2-0c7d-4024-91a5-022a9d33b74e)
+
 
