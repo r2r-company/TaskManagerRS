@@ -11,7 +11,7 @@ TaskManagerRS — це система управління задачами та
 ### 1. Клонування репозиторію
 
 ```bash
-[git clone https://github.com/yourusername/TaskManagerRS.git](https://github.com/r2r-company/TaskManagerRS.git)
+git clone https://github.com/yourusername/TaskManagerRS.git
 cd TaskManagerRS
 ```
 
