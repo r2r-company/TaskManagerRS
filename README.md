@@ -64,4 +64,6 @@ python manage.py runserver
 
 ![image](https://github.com/user-attachments/assets/90bf3dd2-0c7d-4024-91a5-022a9d33b74e)
 
+# Встановлення та запуск через Docker:
+
 
