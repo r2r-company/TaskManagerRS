@@ -67,5 +67,12 @@ python manage.py runserver
 # Встановлення та запуск через Docker:
 
 📦 Встановіть усі залежності, зазначені у файлі [Dockerfile](Dockerfile)
+```bash
+docker build -t django-app .
+```
+```bash
+docker run -p 8000:8000 django-app
+```
+
 
 
